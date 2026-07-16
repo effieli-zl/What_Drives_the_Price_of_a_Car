@@ -2,7 +2,7 @@
 
 Regression analysis of ~426K used-car listings to identify the key drivers of price, following the **CRISP-DM** framework.
 
-- **Deliverable:** `Assignment_11.1_What_Drives_the_Price_of_a_Car.ipynb`
+- **Notebook:** [Assignment_11.1_What_Drives_the_Price_of_a_Car.ipynb](https://github.com/effieli-zl/What_Drives_the_Price_of_a_Car/blob/master/Assignment_11.1_What_Drives_the_Price_of_a_Car.ipynb)
 - **Audience:** a used-car dealership fine-tuning its inventory
 - **Task type:** supervised regression (target = `price`)
 
